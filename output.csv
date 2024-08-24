@@ -1,0 +1,324 @@
+﻿,Image Name,Prediction,Waste Type
+0,12.843405-80.154573_136.jpg,6,Paper and Cardboard
+1,12.843405-80.154573_105.jpg,5,Other Plastics
+2,12.843405-80.154573_184.jpg,4,Organic Waste
+3,12.841837-80.155035_9.jpg,7,Plastic
+4,12.843405-80.154573_45.jpg,5,Other Plastics
+5,12.843405-80.154573_38.jpg,5,Other Plastics
+6,12.843405-80.154573_138.jpg,6,Paper and Cardboard
+7,12.843405-80.154573_90.jpg,5,Other Plastics
+8,12.841837-80.155035_19.jpg,7,Plastic
+9,12.843405-80.154573_111.jpg,5,Other Plastics
+10,12.843405-80.154573_49.jpg,5,Other Plastics
+11,12.843405-80.154573_171.jpg,6,Paper and Cardboard
+12,12.843405-80.154573_196.jpg,6,Paper and Cardboard
+13,12.841837-80.155035_68.jpg,7,Plastic
+14,12.841837-80.155035_28.jpg,7,Plastic
+15,12.843405-80.154573_60.jpg,5,Other Plastics
+16,12.841837-80.155035_33.jpg,7,Plastic
+17,12.843405-80.154573_139.jpg,6,Paper and Cardboard
+18,12.843405-80.154573_126.jpg,6,Paper and Cardboard
+19,12.843405-80.154573_177.jpg,6,Paper and Cardboard
+20,12.841837-80.155035_12.jpg,7,Plastic
+21,12.843405-80.154573_141.jpg,6,Paper and Cardboard
+22,12.841837-80.155035_47.jpg,7,Plastic
+23,12.843405-80.154573_39.jpg,6,Paper and Cardboard
+24,12.843405-80.154573_76.jpg,5,Other Plastics
+25,12.843405-80.154573_123.jpg,6,Paper and Cardboard
+26,12.843405-80.154573_61.jpg,5,Other Plastics
+27,12.843405-80.154573_95.jpg,5,Other Plastics
+28,12.841837-80.155035_83.jpg,6,Paper and Cardboard
+29,12.841837-80.155035_63.jpg,7,Plastic
+30,12.843405-80.154573_225.jpg,6,Paper and Cardboard
+31,12.843405-80.154573_58.jpg,5,Other Plastics
+32,12.841837-80.155035_41.jpg,7,Plastic
+33,12.843405-80.154573_32.jpg,6,Paper and Cardboard
+34,12.843405-80.154573_67.jpg,5,Other Plastics
+35,12.841837-80.155035_82.jpg,6,Paper and Cardboard
+36,12.843405-80.154573_209.jpg,6,Paper and Cardboard
+37,12.843405-80.154573_96.jpg,5,Other Plastics
+38,12.843405-80.154573_57.jpg,5,Other Plastics
+39,12.843405-80.154573_28.jpg,6,Paper and Cardboard
+40,12.843405-80.154573_161.jpg,6,Paper and Cardboard
+41,12.841837-80.155035_81.jpg,7,Plastic
+42,12.843405-80.154573_109.jpg,5,Other Plastics
+43,12.841837-80.155035_29.jpg,7,Plastic
+44,12.843405-80.154573_86.jpg,5,Other Plastics
+45,12.843405-80.154573_106.jpg,5,Other Plastics
+46,12.843405-80.154573_63.jpg,5,Other Plastics
+47,12.843405-80.154573_190.jpg,5,Other Plastics
+48,12.843405-80.154573_149.jpg,2,Carton
+49,12.841837-80.155035_42.jpg,7,Plastic
+50,12.843405-80.154573_44.jpg,6,Paper and Cardboard
+51,12.843405-80.154573_46.jpg,5,Other Plastics
+52,12.843405-80.154573_165.jpg,6,Paper and Cardboard
+53,12.843405-80.154573_87.jpg,5,Other Plastics
+54,12.841837-80.155035_67.jpg,7,Plastic
+55,12.843405-80.154573_33.jpg,6,Paper and Cardboard
+56,12.841837-80.155035_71.jpg,7,Plastic
+57,12.843405-80.154573_221.jpg,6,Paper and Cardboard
+58,12.841837-80.155035_36.jpg,7,Plastic
+59,12.843405-80.154573_21.jpg,6,Paper and Cardboard
+60,12.841837-80.155035_86.jpg,7,Plastic
+61,12.843405-80.154573_118.jpg,6,Paper and Cardboard
+62,12.843405-80.154573_212.jpg,6,Paper and Cardboard
+63,12.843405-80.154573_51.jpg,5,Other Plastics
+64,12.843405-80.154573_174.jpg,6,Paper and Cardboard
+65,12.843405-80.154573_13.jpg,6,Paper and Cardboard
+66,12.841837-80.155035_76.jpg,7,Plastic
+67,12.841837-80.155035_34.jpg,7,Plastic
+68,12.843405-80.154573_180.jpg,4,Organic Waste
+69,12.843405-80.154573_34.jpg,6,Paper and Cardboard
+70,12.841837-80.155035_79.jpg,7,Plastic
+71,12.841837-80.155035_90.jpg,7,Plastic
+72,12.843405-80.154573_37.jpg,5,Other Plastics
+73,12.843405-80.154573_115.jpg,6,Paper and Cardboard
+74,12.843405-80.154573_31.jpg,6,Paper and Cardboard
+75,12.841837-80.155035_74.jpg,7,Plastic
+76,12.843405-80.154573_135.jpg,6,Paper and Cardboard
+77,12.843405-80.154573_53.jpg,5,Other Plastics
+78,12.843405-80.154573_129.jpg,6,Paper and Cardboard
+79,12.843405-80.154573_120.jpg,6,Paper and Cardboard
+80,12.841837-80.155035_95.jpg,7,Plastic
+81,12.843405-80.154573_122.jpg,6,Paper and Cardboard
+82,12.841837-80.155035_40.jpg,7,Plastic
+83,12.841837-80.155035_49.jpg,7,Plastic
+84,12.843405-80.154573_205.jpg,5,Other Plastics
+85,12.843405-80.154573_40.jpg,5,Other Plastics
+86,12.841837-80.155035_72.jpg,7,Plastic
+87,12.843405-80.154573_208.jpg,6,Paper and Cardboard
+88,12.843405-80.154573_132.jpg,6,Paper and Cardboard
+89,12.841837-80.155035_53.jpg,7,Plastic
+90,12.843405-80.154573_170.jpg,6,Paper and Cardboard
+91,12.841837-80.155035_15.jpg,7,Plastic
+92,12.841837-80.155035_59.jpg,7,Plastic
+93,12.841837-80.155035_51.jpg,7,Plastic
+94,12.843405-80.154573_10.jpg,6,Paper and Cardboard
+95,12.843405-80.154573_66.jpg,5,Other Plastics
+96,12.843405-80.154573_72.jpg,5,Other Plastics
+97,12.843405-80.154573_169.jpg,6,Paper and Cardboard
+98,12.843405-80.154573_6.jpg,6,Paper and Cardboard
+99,12.843405-80.154573_197.jpg,6,Paper and Cardboard
+100,12.841837-80.155035_22.jpg,7,Plastic
+101,12.843405-80.154573_7.jpg,6,Paper and Cardboard
+102,12.841837-80.155035_13.jpg,7,Plastic
+103,12.843405-80.154573_110.jpg,5,Other Plastics
+104,12.841837-80.155035_88.jpg,7,Plastic
+105,12.841837-80.155035_27.jpg,7,Plastic
+106,12.841837-80.155035_37.jpg,7,Plastic
+107,12.843405-80.154573_189.jpg,6,Paper and Cardboard
+108,12.841837-80.155035_2.jpg,7,Plastic
+109,12.843405-80.154573_85.jpg,5,Other Plastics
+110,12.841837-80.155035_20.jpg,7,Plastic
+111,12.843405-80.154573_133.jpg,6,Paper and Cardboard
+112,12.843405-80.154573_131.jpg,6,Paper and Cardboard
+113,12.843405-80.154573_166.jpg,6,Paper and Cardboard
+114,12.843405-80.154573_191.jpg,5,Other Plastics
+115,12.843405-80.154573_17.jpg,6,Paper and Cardboard
+116,12.841837-80.155035_56.jpg,7,Plastic
+117,12.843405-80.154573_50.jpg,5,Other Plastics
+118,12.843405-80.154573_121.jpg,6,Paper and Cardboard
+119,12.841837-80.155035_84.jpg,7,Plastic
+120,12.843405-80.154573_94.jpg,5,Other Plastics
+121,12.841837-80.155035_91.jpg,7,Plastic
+122,12.843405-80.154573_2.jpg,6,Paper and Cardboard
+123,12.843405-80.154573_125.jpg,6,Paper and Cardboard
+124,12.843405-80.154573_214.jpg,6,Paper and Cardboard
+125,12.841837-80.155035_5.jpg,7,Plastic
+126,12.841837-80.155035_54.jpg,7,Plastic
+127,12.843405-80.154573_14.jpg,6,Paper and Cardboard
+128,12.843405-80.154573_179.jpg,4,Organic Waste
+129,12.843405-80.154573_172.jpg,6,Paper and Cardboard
+130,12.843405-80.154573_186.jpg,4,Organic Waste
+131,12.841837-80.155035_32.jpg,7,Plastic
+132,12.843405-80.154573_137.jpg,6,Paper and Cardboard
+133,12.841837-80.155035_45.jpg,7,Plastic
+134,12.843405-80.154573_98.jpg,3,Glass
+135,12.841837-80.155035_66.jpg,7,Plastic
+136,12.843405-80.154573_99.jpg,5,Other Plastics
+137,12.841837-80.155035_25.jpg,7,Plastic
+138,12.843405-80.154573_203.jpg,6,Paper and Cardboard
+139,12.843405-80.154573_36.jpg,5,Other Plastics
+140,12.843405-80.154573_140.jpg,6,Paper and Cardboard
+141,12.843405-80.154573_183.jpg,6,Paper and Cardboard
+142,12.843405-80.154573_56.jpg,5,Other Plastics
+143,12.843405-80.154573_206.jpg,5,Other Plastics
+144,12.843405-80.154573_48.jpg,5,Other Plastics
+145,12.841837-80.155035_60.jpg,7,Plastic
+146,12.843405-80.154573_182.jpg,6,Paper and Cardboard
+147,12.843405-80.154573_35.jpg,6,Paper and Cardboard
+148,12.843405-80.154573_211.jpg,6,Paper and Cardboard
+149,12.843405-80.154573_30.jpg,6,Paper and Cardboard
+150,12.841837-80.155035_0.jpg,6,Paper and Cardboard
+151,12.843405-80.154573_55.jpg,5,Other Plastics
+152,12.843405-80.154573_175.jpg,6,Paper and Cardboard
+153,12.841837-80.155035_55.jpg,7,Plastic
+154,12.841837-80.155035_87.jpg,7,Plastic
+155,12.843405-80.154573_5.jpg,6,Paper and Cardboard
+156,12.843405-80.154573_80.jpg,5,Other Plastics
+157,12.843405-80.154573_142.jpg,6,Paper and Cardboard
+158,12.843405-80.154573_148.jpg,2,Carton
+159,12.841837-80.155035_96.jpg,7,Plastic
+160,12.843405-80.154573_27.jpg,6,Paper and Cardboard
+161,12.843405-80.154573_24.jpg,6,Paper and Cardboard
+162,12.841837-80.155035_14.jpg,7,Plastic
+163,12.841837-80.155035_50.jpg,7,Plastic
+164,12.843405-80.154573_52.jpg,5,Other Plastics
+165,12.843405-80.154573_222.jpg,5,Other Plastics
+166,12.843405-80.154573_188.jpg,6,Paper and Cardboard
+167,12.843405-80.154573_185.jpg,6,Paper and Cardboard
+168,12.841837-80.155035_38.jpg,7,Plastic
+169,12.843405-80.154573_43.jpg,6,Paper and Cardboard
+170,12.843405-80.154573_201.jpg,4,Organic Waste
+171,12.841837-80.155035_43.jpg,7,Plastic
+172,12.843405-80.154573_18.jpg,6,Paper and Cardboard
+173,12.841837-80.155035_92.jpg,7,Plastic
+174,12.841837-80.155035_17.jpg,7,Plastic
+175,12.841837-80.155035_39.jpg,7,Plastic
+176,12.843405-80.154573_162.jpg,6,Paper and Cardboard
+177,12.843405-80.154573_160.jpg,6,Paper and Cardboard
+178,12.843405-80.154573_81.jpg,5,Other Plastics
+179,12.843405-80.154573_151.jpg,6,Paper and Cardboard
+180,12.843405-80.154573_12.jpg,6,Paper and Cardboard
+181,12.841837-80.155035_73.jpg,7,Plastic
+182,12.843405-80.154573_11.jpg,6,Paper and Cardboard
+183,12.841837-80.155035_23.jpg,7,Plastic
+184,12.841837-80.155035_69.jpg,7,Plastic
+185,12.843405-80.154573_15.jpg,6,Paper and Cardboard
+186,12.843405-80.154573_0.jpg,6,Paper and Cardboard
+187,12.843405-80.154573_152.jpg,6,Paper and Cardboard
+188,12.841837-80.155035_6.jpg,7,Plastic
+189,12.841837-80.155035_77.jpg,7,Plastic
+190,12.841837-80.155035_31.jpg,7,Plastic
+191,12.843405-80.154573_59.jpg,5,Other Plastics
+192,12.843405-80.154573_130.jpg,6,Paper and Cardboard
+193,12.843405-80.154573_47.jpg,5,Other Plastics
+194,12.843405-80.154573_181.jpg,6,Paper and Cardboard
+195,12.843405-80.154573_154.jpg,6,Paper and Cardboard
+196,12.843405-80.154573_164.jpg,5,Other Plastics
+197,12.843405-80.154573_150.jpg,6,Paper and Cardboard
+198,12.843405-80.154573_20.jpg,6,Paper and Cardboard
+199,12.843405-80.154573_124.jpg,6,Paper and Cardboard
+200,12.843405-80.154573_62.jpg,5,Other Plastics
+201,12.841837-80.155035_65.jpg,7,Plastic
+202,12.841837-80.155035_85.jpg,7,Plastic
+203,12.843405-80.154573_114.jpg,5,Other Plastics
+204,12.843405-80.154573_77.jpg,5,Other Plastics
+205,12.843405-80.154573_168.jpg,6,Paper and Cardboard
+206,12.841837-80.155035_7.jpg,7,Plastic
+207,12.841837-80.155035_80.jpg,7,Plastic
+208,12.843405-80.154573_23.jpg,6,Paper and Cardboard
+209,12.843405-80.154573_64.jpg,5,Other Plastics
+210,12.843405-80.154573_107.jpg,5,Other Plastics
+211,12.841837-80.155035_57.jpg,7,Plastic
+212,12.843405-80.154573_192.jpg,6,Paper and Cardboard
+213,12.843405-80.154573_103.jpg,6,Paper and Cardboard
+214,12.843405-80.154573_100.jpg,5,Other Plastics
+215,12.843405-80.154573_102.jpg,5,Other Plastics
+216,12.843405-80.154573_219.jpg,5,Other Plastics
+217,12.843405-80.154573_65.jpg,5,Other Plastics
+218,12.843405-80.154573_4.jpg,6,Paper and Cardboard
+219,12.843405-80.154573_158.jpg,6,Paper and Cardboard
+220,12.843405-80.154573_93.jpg,5,Other Plastics
+221,12.841837-80.155035_30.jpg,7,Plastic
+222,12.843405-80.154573_159.jpg,6,Paper and Cardboard
+223,12.843405-80.154573_92.jpg,5,Other Plastics
+224,12.843405-80.154573_156.jpg,6,Paper and Cardboard
+225,12.843405-80.154573_75.jpg,5,Other Plastics
+226,12.843405-80.154573_193.jpg,5,Other Plastics
+227,12.843405-80.154573_68.jpg,5,Other Plastics
+228,12.843405-80.154573_144.jpg,6,Paper and Cardboard
+229,12.841837-80.155035_94.jpg,7,Plastic
+230,12.843405-80.154573_220.jpg,6,Paper and Cardboard
+231,12.841837-80.155035_75.jpg,7,Plastic
+232,12.841837-80.155035_44.jpg,7,Plastic
+233,12.843405-80.154573_79.jpg,6,Paper and Cardboard
+234,12.843405-80.154573_128.jpg,6,Paper and Cardboard
+235,12.843405-80.154573_198.jpg,6,Paper and Cardboard
+236,12.843405-80.154573_157.jpg,6,Paper and Cardboard
+237,12.843405-80.154573_134.jpg,6,Paper and Cardboard
+238,12.843405-80.154573_143.jpg,6,Paper and Cardboard
+239,12.843405-80.154573_54.jpg,5,Other Plastics
+240,12.841837-80.155035_11.jpg,7,Plastic
+241,12.843405-80.154573_26.jpg,6,Paper and Cardboard
+242,12.843405-80.154573_178.jpg,6,Paper and Cardboard
+243,12.843405-80.154573_74.jpg,5,Other Plastics
+244,12.843405-80.154573_22.jpg,6,Paper and Cardboard
+245,12.843405-80.154573_167.jpg,6,Paper and Cardboard
+246,12.841837-80.155035_46.jpg,7,Plastic
+247,12.843405-80.154573_194.jpg,5,Other Plastics
+248,12.843405-80.154573_119.jpg,6,Paper and Cardboard
+249,12.843405-80.154573_91.jpg,5,Other Plastics
+250,12.841837-80.155035_8.jpg,7,Plastic
+251,12.841837-80.155035_10.jpg,7,Plastic
+252,12.843405-80.154573_210.jpg,6,Paper and Cardboard
+253,12.843405-80.154573_199.jpg,6,Paper and Cardboard
+254,12.843405-80.154573_112.jpg,6,Paper and Cardboard
+255,12.843405-80.154573_78.jpg,5,Other Plastics
+256,12.843405-80.154573_195.jpg,6,Paper and Cardboard
+257,12.843405-80.154573_213.jpg,6,Paper and Cardboard
+258,12.841837-80.155035_61.jpg,7,Plastic
+259,12.841837-80.155035_26.jpg,7,Plastic
+260,12.843405-80.154573_82.jpg,5,Other Plastics
+261,12.843405-80.154573_3.jpg,6,Paper and Cardboard
+262,12.843405-80.154573_25.jpg,6,Paper and Cardboard
+263,12.841837-80.155035_64.jpg,7,Plastic
+264,12.843405-80.154573_187.jpg,4,Organic Waste
+265,12.841837-80.155035_48.jpg,7,Plastic
+266,12.843405-80.154573_8.jpg,6,Paper and Cardboard
+267,12.843405-80.154573_16.jpg,6,Paper and Cardboard
+268,12.841837-80.155035_58.jpg,7,Plastic
+269,12.843405-80.154573_101.jpg,5,Other Plastics
+270,12.843405-80.154573_84.jpg,5,Other Plastics
+271,12.843405-80.154573_163.jpg,6,Paper and Cardboard
+272,12.841837-80.155035_62.jpg,7,Plastic
+273,12.843405-80.154573_218.jpg,6,Paper and Cardboard
+274,12.843405-80.154573_41.jpg,2,Carton
+275,12.843405-80.154573_104.jpg,5,Other Plastics
+276,12.843405-80.154573_42.jpg,6,Paper and Cardboard
+277,12.843405-80.154573_147.jpg,6,Paper and Cardboard
+278,12.841837-80.155035_1.jpg,7,Plastic
+279,12.843405-80.154573_1.jpg,6,Paper and Cardboard
+280,12.843405-80.154573_202.jpg,6,Paper and Cardboard
+281,12.843405-80.154573_9.jpg,6,Paper and Cardboard
+282,12.841837-80.155035_16.jpg,7,Plastic
+283,12.843405-80.154573_200.jpg,6,Paper and Cardboard
+284,12.841837-80.155035_21.jpg,7,Plastic
+285,12.843405-80.154573_176.jpg,6,Paper and Cardboard
+286,12.843405-80.154573_145.jpg,6,Paper and Cardboard
+287,12.843405-80.154573_155.jpg,6,Paper and Cardboard
+288,12.843405-80.154573_69.jpg,5,Other Plastics
+289,12.843405-80.154573_215.jpg,6,Paper and Cardboard
+290,12.843405-80.154573_88.jpg,5,Other Plastics
+291,12.843405-80.154573_108.jpg,5,Other Plastics
+292,12.841837-80.155035_24.jpg,7,Plastic
+293,12.843405-80.154573_207.jpg,5,Other Plastics
+294,12.841837-80.155035_52.jpg,7,Plastic
+295,12.843405-80.154573_116.jpg,6,Paper and Cardboard
+296,12.843405-80.154573_71.jpg,5,Other Plastics
+297,12.841837-80.155035_18.jpg,7,Plastic
+298,12.841837-80.155035_4.jpg,7,Plastic
+299,12.843405-80.154573_83.jpg,5,Other Plastics
+300,12.841837-80.155035_3.jpg,7,Plastic
+301,12.843405-80.154573_19.jpg,6,Paper and Cardboard
+302,12.841837-80.155035_78.jpg,7,Plastic
+303,12.841837-80.155035_35.jpg,7,Plastic
+304,12.843405-80.154573_217.jpg,5,Other Plastics
+305,12.841837-80.155035_89.jpg,7,Plastic
+306,12.843405-80.154573_127.jpg,6,Paper and Cardboard
+307,12.841837-80.155035_70.jpg,7,Plastic
+308,12.843405-80.154573_89.jpg,5,Other Plastics
+309,12.843405-80.154573_204.jpg,6,Paper and Cardboard
+310,12.843405-80.154573_70.jpg,5,Other Plastics
+311,12.843405-80.154573_173.jpg,6,Paper and Cardboard
+312,12.843405-80.154573_146.jpg,6,Paper and Cardboard
+313,12.843405-80.154573_153.jpg,6,Paper and Cardboard
+314,12.843405-80.154573_29.jpg,6,Paper and Cardboard
+315,12.843405-80.154573_73.jpg,5,Other Plastics
+316,12.843405-80.154573_216.jpg,6,Paper and Cardboard
+317,12.843405-80.154573_97.jpg,5,Other Plastics
+318,12.843405-80.154573_224.jpg,4,Organic Waste
+319,12.843405-80.154573_223.jpg,6,Paper and Cardboard
+320,12.843405-80.154573_113.jpg,5,Other Plastics
+321,12.841837-80.155035_93.jpg,7,Plastic
+322,12.843405-80.154573_117.jpg,6,Paper and Cardboard
